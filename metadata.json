@@ -1,0 +1,7 @@
+{
+  "name": "AetherWaves",
+  "description": "An interactive generative art experience exploring the concept of waves. Describe a feeling, concept, or element, and watch Gemini transform it into a unique visual and sonic wave simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
